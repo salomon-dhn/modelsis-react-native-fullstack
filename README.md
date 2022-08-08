@@ -71,10 +71,12 @@
 The product is a mobile application developed in React-Native. It allows you to view the list of registered products, to add and modify a product, to add a product type. It uses an online API that has been developed with SpringBoot. All this in a user-friendly interface!
 <br />
 <p align="center">
-<a align="center" href="https://github.com/salomon-dhn/modelsis-react-native-fullstack">
-  <img alt="Product Name Screen Shot" src='./assets/gif-1.gif'/>
-  <img alt="Product Name Screen Shot" src='./assets/gif-2.gif'/>
-</a>
+  <a href="https://github.com/salomon-dhn/modelsis-react-native-fullstack">
+    <img alt="Product Name Screen Shot1" src='./assets/gif-1.gif'/>
+  </a>
+  <a align="center" href="https://github.com/salomon-dhn/modelsis-react-native-fullstack">
+    <img alt="Product Name Screen Shot2" src='https://github.com/salomon-dhn/modelsis-react-native-fullstack/raw/main/assets/gif-2.gif'>
+  </a>
 </p>
 
 ### Built With
